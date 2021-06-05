@@ -4,45 +4,33 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: اسعار و مراجعة الموبايلات
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-  - section_id: about
-    type: section_content
-    title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: button
+    title: مراجعة وأسعار الهواتف
+    content: >
+      مراجعة اسعار الهواتف فى 2021 وعرض مميزات وخصائص وسعر كل موبايل وامكانية
+      المقارنة بين الهواتف واسعارها من حيث المساحه والذلكره والكاميرا 
+
+      واسعار الموبايلات فى جميع الدول العربية
   - section_id: recent-posts
     type: section_posts
-    title: Recent Posts
+    title: جديد المدونة
     posts_number: 4
     actions:
       - label: View Blog
         url: blog/index.html
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: مراجعة واسعار الهواتف 2021
+  description: >
+    مراجعة اسعار الهواتف فى 2021 وعرض مميزات وخصائص وسعر كل موبايل والمقارنة بين
+    الهواتف واسعارها من حيث المساحه والذلكره والكاميرا واسعار الموبايلات فى كل
+    الدول
   extra:
     - name: 'og:type'
       value: website
       keyName: property
-    - name: 'og:title'
-      value: Stackbit Fresh Theme
-      keyName: property
-    - name: 'og:description'
-      value: The preview of the Fresh theme
-      keyName: property
     - name: 'og:image'
-      value: images/4.jpg
+      value: >-
+        /_static/app-assets/images/20620864_1948974755345087_5586525841245020349_n.jpg
       keyName: property
       relativeUrl: true
     - name: 'twitter:card'
